@@ -1,0 +1,509 @@
+{
+                   {
+                   endTime = "2017-08-24 00:00:50";
+                   heartAvg = 92;
+                   startTime = "2017-08-24 00:00:45";
+                   },
+                   {
+                   endTime = "2017-08-24 00:15:50";
+                   heartAvg = 81;
+                   startTime = "2017-08-24 00:15:45";
+                   },
+                   {
+                   endTime = "2017-08-24 00:30:50";
+                   heartAvg = 61;
+                   startTime = "2017-08-24 00:30:45";
+                   },
+                   {
+                   endTime = "2017-08-24 00:45:50";
+                   heartAvg = 77;
+                   heartMax = 77;
+                   heartMin = 77;
+                   startTime = "2017-08-24 00:45:45";
+                   },
+                   {
+                   endTime = "2017-08-24 01:00:50";
+                   heartAvg = 62;
+                   heartMax = 62;
+                   heartMin = 62;
+                   startTime = "2017-08-24 01:00:45";
+                   },
+                   {
+                   endTime = "2017-08-24 01:15:50";
+                   heartAvg = 123;
+                   heartMax = 123;
+                   heartMin = 123;
+                   startTime = "2017-08-24 01:15:45";
+                   },
+                   {
+                   endTime = "2017-08-24 01:30:50";
+                   heartAvg = 73;
+                   heartMax = 73;
+                   heartMin = 73;
+                   startTime = "2017-08-24 01:30:45";
+                   },
+                   {
+                   endTime = "2017-08-24 01:45:50";
+                   heartAvg = 55;
+                   heartMax = 55;
+                   heartMin = 55;
+                   startTime = "2017-08-24 01:45:45";
+                   },
+                   {
+                   endTime = "2017-08-24 02:00:50";
+                   heartAvg = 185;
+                   heartMax = 185;
+                   heartMin = 185;
+                   startTime = "2017-08-24 02:00:45";
+                   },
+                   {
+                   endTime = "2017-08-24 02:15:50";
+                   heartAvg = 58;
+                   heartMax = 58;
+                   heartMin = 58;
+                   startTime = "2017-08-24 02:15:45";
+                   },
+                   {
+                   endTime = "2017-08-24 02:30:50";
+                   heartAvg = 84;
+                   heartMax = 84;
+                   heartMin = 84;
+                   startTime = "2017-08-24 02:30:45";
+                   },
+                   {
+                   endTime = "2017-08-24 02:45:50";
+                   heartAvg = 105;
+                   heartMax = 105;
+                   heartMin = 105;
+                   startTime = "2017-08-24 02:45:45";
+                   },
+                   {
+                   endTime = "2017-08-24 03:00:53";
+                   heartAvg = 88;
+                   heartMax = 88;
+                   heartMin = 88;
+                   startTime = "2017-08-24 03:00:48";
+                   },
+                   {
+                   endTime = "2017-08-24 03:15:54";
+                   heartAvg = 89;
+                   heartMax = 89;
+                   heartMin = 89;
+                   startTime = "2017-08-24 03:15:49";
+                   },
+                   {
+                   endTime = "2017-08-24 03:30:50";
+                   heartAvg = 86;
+                   heartMax = 86;
+                   heartMin = 86;
+                   startTime = "2017-08-24 03:30:45";
+                   },
+                   {
+                   endTime = "2017-08-24 03:45:50";
+                   heartAvg = 90;
+                   heartMax = 90;
+                   heartMin = 90;
+                   startTime = "2017-08-24 03:45:45";
+                   },
+                   {
+                   endTime = "2017-08-24 04:00:50";
+                   heartAvg = 78;
+                   heartMax = 78;
+                   heartMin = 78;
+                   startTime = "2017-08-24 04:00:45";
+                   },
+                   {
+                   endTime = "2017-08-24 04:15:50";
+                   heartAvg = 59;
+                   heartMax = 59;
+                   heartMin = 59;
+                   startTime = "2017-08-24 04:15:45";
+                   },
+                   {
+                   endTime = "2017-08-24 04:30:50";
+                   heartAvg = 53;
+                   heartMax = 53;
+                   heartMin = 53;
+                   startTime = "2017-08-24 04:30:45";
+                   },
+                   {
+                   endTime = "2017-08-24 04:45:50";
+                   heartAvg = 144;
+                   heartMax = 144;
+                   heartMin = 144;
+                   startTime = "2017-08-24 04:45:45";
+                   },
+                   {
+                   endTime = "2017-08-24 05:00:50";
+                   heartAvg = 99;
+                   heartMax = 99;
+                   heartMin = 99;
+                   startTime = "2017-08-24 05:00:45";
+                   },
+                   {
+                   endTime = "2017-08-24 05:15:50";
+                   heartAvg = 85;
+                   heartMax = 85;
+                   heartMin = 85;
+                   startTime = "2017-08-24 05:15:45";
+                   },
+                   {
+                   endTime = "2017-08-24 05:30:50";
+                   heartAvg = 76;
+                   heartMax = 76;
+                   heartMin = 76;
+                   startTime = "2017-08-24 05:30:45";
+                   },
+                   {
+                   endTime = "2017-08-24 05:45:50";
+                   heartAvg = 59;
+                   heartMax = 59;
+                   heartMin = 59;
+                   startTime = "2017-08-24 05:45:45";
+                   },
+                   {
+                   endTime = "2017-08-24 06:00:50";
+                   heartAvg = 158;
+                   heartMax = 158;
+                   heartMin = 158;
+                   startTime = "2017-08-24 06:00:45";
+                   },
+                   {
+                   endTime = "2017-08-24 06:15:50";
+                   heartAvg = 89;
+                   heartMax = 89;
+                   heartMin = 89;
+                   startTime = "2017-08-24 06:15:45";
+                   },
+                   {
+                   endTime = "2017-08-24 06:30:50";
+                   heartAvg = 153;
+                   heartMax = 153;
+                   heartMin = 153;
+                   startTime = "2017-08-24 06:30:45";
+                   },
+                   {
+                   endTime = "2017-08-24 06:45:50";
+                   heartAvg = 60;
+                   heartMax = 60;
+                   heartMin = 60;
+                   startTime = "2017-08-24 06:45:45";
+                   },
+                   {
+                   endTime = "2017-08-24 07:00:50";
+                   heartAvg = 78;
+                   heartMax = 78;
+                   heartMin = 78;
+                   startTime = "2017-08-24 07:00:45";
+                   },
+                   {
+                   endTime = "2017-08-24 07:15:50";
+                   heartAvg = 63;
+                   heartMax = 63;
+                   heartMin = 63;
+                   startTime = "2017-08-24 07:15:45";
+                   },
+                   {
+                   endTime = "2017-08-24 07:30:50";
+                   heartAvg = 89;
+                   heartMax = 89;
+                   heartMin = 89;
+                   startTime = "2017-08-24 07:30:45";
+                   },
+                   {
+                   endTime = "2017-08-24 07:45:50";
+                   heartAvg = 90;
+                   heartMax = 90;
+                   heartMin = 90;
+                   startTime = "2017-08-24 07:45:45";
+                   },
+                   {
+                   endTime = "2017-08-24 08:00:50";
+                   heartAvg = 58;
+                   heartMax = 58;
+                   heartMin = 58;
+                   startTime = "2017-08-24 08:00:45";
+                   },
+                   {
+                   endTime = "2017-08-24 08:15:50";
+                   heartAvg = 86;
+                   heartMax = 86;
+                   heartMin = 86;
+                   startTime = "2017-08-24 08:15:45";
+                   },
+                   {
+                   endTime = "2017-08-24 08:30:53";
+                   heartAvg = 92;
+                   heartMax = 92;
+                   heartMin = 92;
+                   startTime = "2017-08-24 08:30:48";
+                   },
+                   {
+                   endTime = "2017-08-24 08:45:50";
+                   heartAvg = 120;
+                   heartMax = 120;
+                   heartMin = 120;
+                   startTime = "2017-08-24 08:45:45";
+                   },
+                   {
+                   endTime = "2017-08-24 09:00:52";
+                   heartAvg = 61;
+                   heartMax = 61;
+                   heartMin = 61;
+                   startTime = "2017-08-24 09:00:47";
+                   },
+                   {
+                   endTime = "2017-08-24 09:15:50";
+                   heartAvg = 64;
+                   heartMax = 64;
+                   heartMin = 64;
+                   startTime = "2017-08-24 09:15:45";
+                   },
+                   {
+                   endTime = "2017-08-24 09:30:54";
+                   heartAvg = 61;
+                   heartMax = 61;
+                   heartMin = 61;
+                   startTime = "2017-08-24 09:30:49";
+                   },
+                   {
+                   endTime = "2017-08-24 09:45:53";
+                   heartAvg = 73;
+                   heartMax = 73;
+                   heartMin = 73;
+                   startTime = "2017-08-24 09:45:48";
+                   },
+                   {
+                   endTime = "2017-08-24 10:00:54";
+                   heartAvg = 73;
+                   heartMax = 73;
+                   heartMin = 73;
+                   startTime = "2017-08-24 10:00:49";
+                   },
+                   {
+                   endTime = "2017-08-24 10:15:55";
+                   heartAvg = 61;
+                   heartMax = 61;
+                   heartMin = 61;
+                   startTime = "2017-08-24 10:15:50";
+                   },
+                   {
+                   endTime = "2017-08-24 10:30:54";
+                   heartAvg = 82;
+                   heartMax = 82;
+                   heartMin = 82;
+                   startTime = "2017-08-24 10:30:49";
+                   },
+                   {
+                   endTime = "2017-08-24 10:45:54";
+                   heartAvg = 88;
+                   heartMax = 88;
+                   heartMin = 88;
+                   startTime = "2017-08-24 10:45:49";
+                   },
+                   {
+                   endTime = "2017-08-24 11:00:55";
+                   heartAvg = 82;
+                   heartMax = 82;
+                   heartMin = 82;
+                   startTime = "2017-08-24 11:00:50";
+                   },
+                   {
+                   endTime = "2017-08-24 11:15:55";
+                   heartAvg = 121;
+                   heartMax = 121;
+                   heartMin = 121;
+                   startTime = "2017-08-24 11:15:50";
+                   },
+                   {
+                   endTime = "2017-08-24 11:30:55";
+                   heartAvg = 46;
+                   heartMax = 46;
+                   heartMin = 46;
+                   startTime = "2017-08-24 11:30:50";
+                   },
+                   {
+                   endTime = "2017-08-24 11:45:55";
+                   heartAvg = 143;
+                   heartMax = 143;
+                   heartMin = 143;
+                   startTime = "2017-08-24 11:45:50";
+                   },
+                   {
+                   endTime = "2017-08-24 12:00:55";
+                   heartAvg = 84;
+                   heartMax = 84;
+                   heartMin = 84;
+                   startTime = "2017-08-24 12:00:50";
+                   },
+                   {
+                   endTime = "2017-08-24 12:15:55";
+                   heartAvg = 77;
+                   heartMax = 77;
+                   heartMin = 77;
+                   startTime = "2017-08-24 12:15:50";
+                   },
+                   {
+                   endTime = "2017-08-24 12:30:56";
+                   heartAvg = 102;
+                   heartMax = 102;
+                   heartMin = 102;
+                   startTime = "2017-08-24 12:30:51";
+                   },
+                   {
+                   endTime = "2017-08-24 13:00:56";
+                   heartAvg = 63;
+                   heartMax = 63;
+                   heartMin = 63;
+                   startTime = "2017-08-24 13:00:51";
+                   },
+                   {
+                   endTime = "2017-08-24 13:15:57";
+                   heartAvg = 101;
+                   heartMax = 101;
+                   heartMin = 101;
+                   startTime = "2017-08-24 13:15:52";
+                   },
+                   {
+                   endTime = "2017-08-24 13:30:57";
+                   heartAvg = 48;
+                   heartMax = 48;
+                   heartMin = 48;
+                   startTime = "2017-08-24 13:30:52";
+                   },
+                   {
+                   endTime = "2017-08-24 13:45:59";
+                   heartAvg = 97;
+                   heartMax = 97;
+                   heartMin = 97;
+                   startTime = "2017-08-24 13:45:54";
+                   },
+                   {
+                   endTime = "2017-08-24 14:00:57";
+                   heartAvg = 49;
+                   heartMax = 49;
+                   heartMin = 49;
+                   startTime = "2017-08-24 14:00:52";
+                   },
+                   {
+                   endTime = "2017-08-24 14:15:57";
+                   heartAvg = 52;
+                   heartMax = 52;
+                   heartMin = 52;
+                   startTime = "2017-08-24 14:15:52";
+                   },
+                   {
+                   endTime = "2017-08-24 14:30:57";
+                   heartAvg = 71;
+                   heartMax = 71;
+                   heartMin = 71;
+                   startTime = "2017-08-24 14:30:52";
+                   },
+                   {
+                   endTime = "2017-08-24 14:46:28";
+                   heartAvg = 98;
+                   heartMax = 98;
+                   heartMin = 98;
+                   startTime = "2017-08-24 14:46:23";
+                   },
+                   {
+                   endTime = "2017-08-24 15:00:57";
+                   heartAvg = 87;
+                   heartMax = 87;
+                   heartMin = 87;
+                   startTime = "2017-08-24 15:00:52";
+                   },
+                   {
+                   endTime = "2017-08-24 15:15:57";
+                   heartAvg = 74;
+                   heartMax = 74;
+                   heartMin = 74;
+                   startTime = "2017-08-24 15:15:52";
+                   },
+                   {
+                   endTime = "2017-08-24 15:30:58";
+                   heartAvg = 62;
+                   heartMax = 62;
+                   heartMin = 62;
+                   startTime = "2017-08-24 15:30:53";
+                   },
+                   {
+                   endTime = "2017-08-24 15:45:57";
+                   heartAvg = 63;
+                   heartMax = 63;
+                   heartMin = 63;
+                   startTime = "2017-08-24 15:45:52";
+                   },
+                   {
+                   
+                   endTime = "2017-08-24 16:00:59";
+                   heartAvg = 88;
+                   heartMax = 88;
+                   heartMin = 88;
+                   startTime = "2017-08-24 16:00:54";
+                   },
+                   {
+                   endTime = "2017-08-24 16:15:57";
+                   heartAvg = 59;
+                   heartMax = 59;
+                   heartMin = 59;
+                   startTime = "2017-08-24 16:15:52";
+                   },
+                   {
+                   endTime = "2017-08-24 16:30:57";
+                   heartAvg = 62;
+                   heartMax = 62;
+                   heartMin = 62;
+                   startTime = "2017-08-24 16:30:52";
+                   },
+                   {
+                   endTime = "2017-08-24 16:45:57";
+                   heartAvg = 61;
+                   heartMax = 61;
+                   heartMin = 61;
+                   startTime = "2017-08-24 16:45:52";
+                   },
+                   {
+                   endTime = "2017-08-24 17:00:58";
+                   heartAvg = 89;
+                   heartMax = 89;
+                   heartMin = 89;
+                   startTime = "2017-08-24 17:00:53";
+                   },
+                   {
+                   endTime = "2017-08-24 17:15:57";
+                   heartAvg = 93;
+                   heartMax = 93;
+                   heartMin = 93;
+                   startTime = "2017-08-24 17:15:52";
+                   },
+                   {
+                   endTime = "2017-08-24 17:31:26";
+                   heartAvg = 99;
+                   heartMax = 99;
+                   heartMin = 99;
+                   startTime = "2017-08-24 17:31:21";
+                   },
+                   {
+                   endTime = "2017-08-24 17:46:43";
+                   heartAvg = 99;
+                   heartMax = 99;
+                   heartMin = 99;
+                   startTime = "2017-08-24 17:46:38";
+                   },
+                   {
+                   endTime = "2017-08-24 18:01:01";
+                   heartAvg = 85;
+                   heartMax = 85;
+                   heartMin = 85;
+                   startTime = "2017-08-24 18:00:56";
+                   },
+                   {
+                   endTime = "2017-08-24 18:16:12";
+                   heartAvg = 182;
+                   heartMax = 182;
+                   heartMin = 182;
+                   startTime = "2017-08-24 18:16:07";
+                   }
+                   
+}
